@@ -21,7 +21,7 @@ Entre las modificaciones realizadas al código está la medición del tiempo cua
 Para interpretar la gráfica obtenida, se tiene que la línea roja es el umbral en el que hay una persona en el sistema, todos los datos por encima de esta línea es el tiempo en el que hay al menos una persona en el sistema (debe ser al menos el 90% del tiempo) y los que estén por debajo de está línea son los instantes en los que no hay al menos una persona en el sistema (debe ser igual o menor al 10% del tiempo total).  
 En el resultado de una simulación se obtuvo:  
 ![Imgur](https://i.imgur.com/ZfIAWqX.png)  
-Lo que quiere decir que el 9.78% del tiempo se tuvo 0 clientes en el sistema y corresponde a los momentos en la gráfica con datos por debajo de la línea roja.
+Lo que quiere decir que el 9.78% del tiempo se tuvo 0 clientes en el sistema y corresponde a los momentos en la gráfica con datos por debajo de la línea roja. Por lo tanto sí se cumple con lo requerido en este caso.
 
 
 
